@@ -1,0 +1,15 @@
+D:\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\netcoreapp3.1\Orleans.GrainDirectory.CosmosDB.csproj.AssemblyReference.cache
+D:\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\netcoreapp3.1\Orleans.GrainDirectory.CosmosDB.AssemblyInfoInputs.cache
+D:\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\netcoreapp3.1\Orleans.GrainDirectory.CosmosDB.AssemblyInfo.cs
+D:\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\netcoreapp3.1\Orleans.GrainDirectory.CosmosDB.csproj.CoreCompileInputs.cache
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\bin\Debug\netcoreapp3.1\Orleans.GrainDirectory.CosmosDB.deps.json
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\bin\Debug\netcoreapp3.1\Orleans.GrainDirectory.CosmosDB.dll
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\bin\Debug\netcoreapp3.1\Orleans.GrainDirectory.CosmosDB.pdb
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\netcoreapp3.1\Orleans.GrainDirectory.CosmosDB.AssemblyInfoInputs.cache
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\netcoreapp3.1\Orleans.GrainDirectory.CosmosDB.AssemblyInfo.cs
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\netcoreapp3.1\Orleans.GrainDirectory.CosmosDB.csproj.CoreCompileInputs.cache
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\netcoreapp3.1\Orleans.GrainDirectory.CosmosDB.dll
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\netcoreapp3.1\Orleans.GrainDirectory.CosmosDB.pdb
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\netcoreapp3.1\Orleans.GrainDirectory.CosmosDB.csprojAssemblyReference.cache

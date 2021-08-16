@@ -1,0 +1,13 @@
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\net5.0\Orleans.GrainDirectory.CosmosDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\net5.0\Orleans.GrainDirectory.CosmosDB.AssemblyInfoInputs.cache
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\net5.0\Orleans.GrainDirectory.CosmosDB.AssemblyInfo.cs
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\net5.0\Orleans.GrainDirectory.CosmosDB.csproj.CoreCompileInputs.cache
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\bin\Debug\net5.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\bin\Debug\net5.0\Cosmos.CRTCompat.dll
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\bin\Debug\net5.0\Orleans.GrainDirectory.CosmosDB.deps.json
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\bin\Debug\net5.0\Orleans.GrainDirectory.CosmosDB.dll
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\bin\Debug\net5.0\ref\Orleans.GrainDirectory.CosmosDB.dll
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\bin\Debug\net5.0\Orleans.GrainDirectory.CosmosDB.pdb
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\net5.0\Orleans.GrainDirectory.CosmosDB.dll
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\net5.0\ref\Orleans.GrainDirectory.CosmosDB.dll
+C:\Github\Orleans.GrainDirectory.CosmosDB\Orleans.GrainDirectory.CosmosDB\obj\Debug\net5.0\Orleans.GrainDirectory.CosmosDB.pdb
